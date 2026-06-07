@@ -1,0 +1,9 @@
+# Compiled build artifacts
+/target
+
+# Cargo.lock is not committed for libraries (only for binaries/applications)
+Cargo.lock
+
+# Backup and editor files
+**/*.rs.bk
+*.log
